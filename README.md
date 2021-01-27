@@ -8,9 +8,9 @@
 
 <div align=center>
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&logoColor=white&link=https://blog.naver.com/rhkd865)](https://blog.naver.com/rhkd865) 
-  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=o-XsSzcAAAAJ)](https://scholar.google.com/citations?user=o-XsSzcAAAAJ) 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkgk/)](https://www.linkedin.com/in/fkgk/) 
+  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=o-XsSzcAAAAJ)](https://scholar.google.com/citations?user=o-XsSzcAAAAJ) 
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&logoColor=white&link=https://blog.naver.com/rhkd865)](https://blog.naver.com/rhkd865) 
   [![Rocketpunch Badge](https://img.shields.io/badge/-Rocketpunch-5149ad?style=flat&logo=Rocketpunch&logoColor=white&link=https://www.rocketpunch.com/@FKgk)](https://www.rocketpunch.com/@FKgk) 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rhkd865@gmail.com)](mailto:rhkd865@gmail.com) 
 
